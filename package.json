@@ -1,0 +1,10 @@
+{
+  "name": "binding-pry-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "src": "index.js",
+  "keywords": [],
+  "author": "Alex MacArthur",
+  "license": "MIT"
+}
