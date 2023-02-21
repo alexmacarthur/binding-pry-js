@@ -14,4 +14,8 @@ Import the script in your code (or load via CDN) and call `binding.pry`. A `debu
 import 'binding-pry-js';
 
 binding.pry
+
+// or...
+
+binding.irb
 ```
